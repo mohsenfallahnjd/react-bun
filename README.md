@@ -10,7 +10,21 @@ This is a React project bootstrapped with [bun](https://bun.sh/).
 
 ### Development
 
-First Cloning the repo, then run the development server.
+#### Install bun
+
+First run the following command to check bun is installed or not
+
+```sh
+bun -v
+```
+
+If you don't have bun installed then run the following command to install bun
+
+```sh
+curl https://bun.sh/install | bash
+```
+
+Cloning the repo, then run the development server.
 
 ```
 bun install
