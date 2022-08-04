@@ -8,9 +8,9 @@ This is a React project bootstrapped with [bun](https://bun.sh/).
 
 ` TODO: Should be complete after finishing development. `
 
-### Development
+## Development
 
-#### Install bun
+#### Install `bun`
 
 First run the following command to check bun is installed or not
 
@@ -26,7 +26,7 @@ curl https://bun.sh/install | bash
 
 Cloning the repo, then run the development server.
 
-```
+```sh
 bun install
 
 bun dev
