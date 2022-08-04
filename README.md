@@ -1,20 +1,20 @@
-# React with Bun runtime
+# The Markdown reader
+
+This Markdown reader app, used from [react-markdown](https://www.npmjs.com/package/react-markdown) and you can set a custom github url and read the md files.
 
 This is a React project bootstrapped with [bun](https://bun.sh/).
 
 ## Getting Started
 
-### Cloning the repo
-
-```sh
-bun create react ./react-bun-app
-```
+` TODO: Should be complete after finishing development. `
 
 ### Development
 
-First, run the development server.
+First Cloning the repo, then run the development server.
 
 ```
+bun install
+
 bun dev
 ```
 
