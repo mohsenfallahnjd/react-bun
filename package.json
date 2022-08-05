@@ -1,22 +1,38 @@
 {
-  "name": "md-reader",
+  "name": "react-bun",
   "version": "0.1.2",
+  "author": "Mohsen Fallahnejad",
   "scripts": {
     "start": "bun dev",
     "build": "react-scripts build"
   },
   "dependencies": {
+    "@types/node": "^18.6.4",
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "@types/react-router-dom": "^5.3.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "6",
+    "sass": "^1.54.2",
     "web-vitals": "^2.1.4"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app"
-    ]
-  },
   "devDependencies": {
-    "typescript": "latest",
-    "react-refresh": "0.10.0"
+    "@typescript-eslint/eslint-plugin": "^5.32.0",
+    "@typescript-eslint/parser": "^5.32.0",
+    "eslint": "^8.21.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "latest",
+    "eslint-plugin-jsdoc": "^39.3.4",
+    "eslint-plugin-jsx-a11y": "latest",
+    "eslint-plugin-react": "^7.30.1",
+    "node-sass": "^7.0.1",
+    "postcss-scss": "^4.0.4",
+    "react-refresh": "^0.14.0",
+    "stylelint": "^14.9.1",
+    "stylelint-config-hudochenkov": "^7.0.1",
+    "stylelint-order": "^5.0.0",
+    "stylelint-scss": "^4.3.0",
+    "typescript": "latest"
   }
 }

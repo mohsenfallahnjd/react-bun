@@ -1,14 +1,9 @@
-# The Markdown reader
-
-This Markdown reader app, used from [react-markdown](https://www.npmjs.com/package/react-markdown) and you can set a custom github url and read the md files.
+# React with Bun runtime
 
 This is a React project bootstrapped with [bun](https://bun.sh/).
+This starter has `react-router`, `eslint` and `stylelint` rules ans support `tsx`.
 
 ## Getting Started
-
-` TODO: Should be complete after finishing development. `
-
-## Development
 
 #### Install `bun`
 
@@ -35,4 +30,3 @@ bun dev
 Open http://localhost:3000 with your browser to see the result.
 
 You can start editing the page by modifying src/App.jsx. The page auto-updates as you edit the file.
-
